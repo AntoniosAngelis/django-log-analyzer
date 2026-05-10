@@ -1,4 +1,4 @@
-# django-log-analyzer
+# Django-log-analyzer
 A simple Django-based cybersecurity dashboard for analyzing Linux authentication logs and detecting failed SSH login attempts.
 
 ## Features
