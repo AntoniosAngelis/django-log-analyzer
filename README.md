@@ -26,3 +26,7 @@ Failed password attempts are extracted from logs and grouped by IP address.
 - Real-time monitoring
 - Splunk-style dashboards
 - Threat intelligence integration
+
+- ## Dashboard Preview
+
+![SOC Dashboard](dashboard.png)
