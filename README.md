@@ -1,10 +1,6 @@
 # django-log-analyzer
 A simple Django-based cybersecurity dashboard for analyzing Linux authentication logs and detecting failed SSH login attempts.
 
-# SOC Log Analyzer
-
-A simple SOC dashboard built with Django and Python for analyzing Linux authentication logs and detecting failed SSH login attempts.
-
 ## Features
 
 - Upload log files
